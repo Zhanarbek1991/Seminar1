@@ -13,4 +13,4 @@ if __name__ == "__main__":
     p.print_xyc()
     print(p.y,p.x,p.c)
     print(p.x,p.y,p.c)
-    
+    print(p.c,p.x,p.y)
